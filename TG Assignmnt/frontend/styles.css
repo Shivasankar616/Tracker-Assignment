@@ -1,0 +1,10 @@
+:root { font-family: Arial, Helvetica, sans-serif; }
+body { background:#f5f7fa; color:#111; padding:20px; }
+.container { max-width:900px; margin:0 auto; }
+form label { display:block; margin-bottom:8px; }
+input, select { padding:6px; margin-left:8px; }
+button { padding:8px 12px; margin-top:8px; }
+#tasks { list-style:none; padding:0; }
+.task { background:white; padding:12px; margin-bottom:8px; border-radius:6px; box-shadow:0 1px 3px rgba(0,0,0,0.08); }
+.task .meta { font-size: 0.9em; color:#555; }
+.actions button { margin-right:8px; }
